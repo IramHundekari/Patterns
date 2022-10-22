@@ -1,3 +1,8 @@
+0 2 3 4 
+1 0 3 4 
+1 2 0 4 
+1 2 3 0
+     
 #include<iostream>
 using namespace std;
 int main()
